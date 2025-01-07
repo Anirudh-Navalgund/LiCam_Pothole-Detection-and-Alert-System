@@ -7,6 +7,6 @@ An advanced pothole detection and mitigation system using camera and 2D LiDAR. T
 - Shashank Padavalkar (shashankp1307@gmail.com)
 - Royston Vedamuthu (royston883@gmail.com)
 
-Checkout _PathRakshak_ Wiki (https://github.com/Anirudh-Navalgund/PathRakshak/wiki) for project timeline and timely progress records!
+Checkout the Wiki (https://github.com/Anirudh-Navalgund/PathRakshak/wiki) for more details!
 
 Thank you! :)
