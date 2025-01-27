@@ -1,5 +1,5 @@
-An advanced pothole detection and mitigation system using camera and 2D LiDAR. The system gives real-time voice instructions to the driver to safely avoid the pothole and maneuver around it.  
-Checkout the Wiki (https://github.com/Anirudh-Navalgund/Advanced-Pothole-Detection-and-Mitigation/wiki) for more details!
+**LiCam** is an intelligent pothole detection and alert system using camera and 2D LiDAR. The system works well in good lighting conditions by leveraging camera's (YOLOv8) detection and during low-lit conditions using 2D-LiDAR's depth data. The system gives real-time voice instructions to the driver to safely avoid the pothole and maneuver around it. This ensures accurate detection and immediate alert mechanism even during low visibility scenarios.
+Checkout the Wiki (https://github.com/Anirudh-Navalgund/LiCam_Pothole-Detection-and-Alert-System/wiki) for more details!
 
 ### Team Details:
 - E Sujaya (esujaya108@gmail.com)
