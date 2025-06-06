@@ -3,10 +3,9 @@ Checkout the Wiki (https://github.com/Anirudh-Navalgund/LiCam_Pothole-Detection-
   
 Link to reference papers: https://drive.google.com/drive/folders/1k7tvp_8RtWzgv79_6Cwm0ysmXJV7FSnc?usp=sharing  
   
-### Team Details:
-- E Sujaya (esujaya108@gmail.com)
-- Anirudh Navalgund (anirudh.n2357@gmail.com)
-- Shashank Padavalkar (shashankp1307@gmail.com)
-- Royston Vedamuthu (royston883@gmail.com)
+### Contributing Teammates:
+- [E Sujaya](https://github.com/Sujaya-E)
+- Shashank Padavalkar
+- [Royston Vedamuthu](https://github.com/RoystonV)
 
 Thank you! :)
