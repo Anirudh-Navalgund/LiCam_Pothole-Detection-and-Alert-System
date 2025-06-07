@@ -5,7 +5,7 @@ Link to reference papers: https://drive.google.com/drive/folders/1k7tvp_8RtWzgv7
   
 ### Contributing Teammates:
 - [E Sujaya](https://github.com/Sujaya-E)
-- Shashank Padavalkar
+- [Shashank Padavalkar](https://github.com/Shashank-Padavalkar)
 - [Royston Vedamuthu](https://github.com/RoystonV)
 
 Thank you! :)
